@@ -1,6 +1,5 @@
 # Zeeshan Ali - MERN Stack Developer
-
-![Profile Banner](https://your-banner-image-url.com/banner.jpg) <!-- Optional: Add a banner image -->
+<!-- ![Profile Banner](https://your-banner-image-url.com/banner.jpg) Optional: Add a banner image -->
 
 ## 👨‍💻 About Me
 
@@ -78,7 +77,6 @@ I am a passionate MERN Stack Developer with experience in developing and maintai
 
 - [LinkedIn](https://www.linkedin.com/in/zeeshanalico/)
 - [LeetCode](https://leetcode.com/u/zeeshanalico/)
-- [GitHub](https://github.com/zeeshanalico)
 
 <!-- Optional: Add any other personal or professional links here -->
 
