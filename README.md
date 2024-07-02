@@ -35,10 +35,6 @@ I am a passionate MERN Stack Developer with experience in developing and maintai
 - Bachelor's in Computer Science
 
 ## 📜 Certifications
-
-**PIAIC, Lahore**
-- Cloud Applied Generative-AI Engineer (Mar 2024 - Mar 2025 Expected)
-
 **PVTC, Lahore**
 - Diploma of Computer Operator (Jan 2021 - Aug 2021)
 
