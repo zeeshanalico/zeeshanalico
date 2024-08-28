@@ -15,12 +15,12 @@ I am a passionate MERN Stack Developer with experience in developing and maintai
 - SQL
 
 **Frameworks:**
-- React.js, Next.js, React Native
-- Node.js, Express.js
+- React.js, Next.js, redux, rtk query
+- Node.js, Express.js, NestJS
 - RESTful APIs
-
+- Prisma
 **Databases:**
-- MySQL
+- MySQL,Postgres
 
 **Tools:**
 - Postman
@@ -41,18 +41,22 @@ I am a passionate MERN Stack Developer with experience in developing and maintai
 ## 💼 Experience
 
 **DIT | MERN Stack Developer**
-- *June 2023 - Present | Lahore, On-site (Part-time)*
+- *June 2023 - June 2024 | Lahore, On-site (Part-time)*
   - Developed and maintained a Human Resource Management System using the MERN stack.
   - Led the development of a dynamic Research Project Module in React.
-  - Currently leading the development of a Learning Management System (LMS), focusing on frontend development.
+  - Achievement: Developed a Learning Management System (LMS) app in react native.
 
+**Ultra Codes Pvt Ltd. | Full-Stack Developer**
+- *July 2024 - Present | Lahore, On-site (Full-time)*
+  - Developed the URL shortner app using the Nextjs and Nestjs frameworks.
+    
 ## 🚀 Projects
 
 **[HR-Connect](https://github.com/zeeshanalico/HR-Connect)**
 - Migrated a Human Resource web application from MERN to MySQL stack, enhancing database performance and data security.
 
 **Learning Management System**
-- An application to manage student tasks and facilitate interaction between students and teachers. *(Under development)*
+- An application to manage student tasks and facilitate interaction between students and teachers. 
 
 **[Student Facilitation Management System](http://sfc.gcu.edu.pk/)**
 - Managed student ID cards, fees, and registration issues.
@@ -60,6 +64,8 @@ I am a passionate MERN Stack Developer with experience in developing and maintai
 **[Human Resource Management System](http://www.hrm.gcu.edu.pk:10087/)**
 - Managed employee data including hiring and payroll processes.
 
+**URL Shortner**
+- An application to short the long urls and manage the statistics against the provided url/link. It is helping bussinesses and individuals to see and manage the traffic on their links.
 ## 📈 Coursework
 
 - Object-Oriented Programming
