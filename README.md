@@ -19,6 +19,7 @@ I am a passionate MERN Stack Developer with experience in developing and maintai
 - Node.js, Express.js, NestJS
 - RESTful APIs
 - Prisma
+  
 **Databases:**
 - MySQL,Postgres
 
