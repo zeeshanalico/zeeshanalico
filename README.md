@@ -25,8 +25,10 @@ I am a passionate MERN Stack Developer with experience in developing and maintai
 
 **Tools:**
 - Postman
+- Docker
 - VSCode
-
+- Slack
+  
 **Version Control:**
 - Git & GitHub
 
