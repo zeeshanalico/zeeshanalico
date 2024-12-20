@@ -44,13 +44,13 @@ I am a passionate MERN Stack Developer with experience in developing and maintai
 ## 💼 Experience
 
 **DIT | MERN Stack Developer**
-- *June 2023 - June 2024 | Lahore, On-site (Part-time)*
+- *June 2023 - June 2024 (1 year 1 month)| Lahore, On-site (Part-time)*
   - Developed and maintained a Human Resource Management System using the MERN stack.
   - Led the development of a dynamic Research Project Module in React.
   - Achievement: Developed a Learning Management System (LMS) app in react native.
 
 **Ultra Codes Pvt Ltd. | Full-Stack Developer**
-- *July 2024 - Present | Lahore, On-site (Full-time)*
+- *July 2024 - September 2024 (3 months) | Lahore, On-site (Full-time)*
   - Developed the URL shortner app using the Nextjs and Nestjs frameworks.
     
 ## 🚀 Projects
