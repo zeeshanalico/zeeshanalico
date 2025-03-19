@@ -2,7 +2,7 @@
 <!-- ![Profile Banner](https://your-banner-image-url.com/banner.jpg) Optional: Add a banner image -->
 
 ## 👨‍💻 About Me
-Fresh Computer Science graduate with strong technical skills in Python, JavaScript, SQL, and full-stack development. Experienced in agile methodologies, building high-performance applications, creating RESTful APIs, and managing SQL databases. Currently pursuing my BS in Computer Science at GC University Lahore (expected graduation: May 2025).
+Computer Science graduate with strong technical skills in Python, JavaScript, SQL, and full-stack development. Experienced in agile methodologies, building high-performance applications, creating RESTful APIs, and managing SQL databases. Currently pursuing my BS in Computer Science at GC University Lahore (expected graduation: May 2025).
 
 - 📧 Email: [zeeshanalico24@gmail.com](mailto:zeeshanalico24@gmail.com)
 - 🌍 Location: Lahore, Pakistan
@@ -11,36 +11,6 @@ Fresh Computer Science graduate with strong technical skills in Python, JavaScri
 - [LinkedIn](https://linkedin.com/in/zeeshanalico)
 - [GitHub](https://github.com/zeeshanalico)
 - [LeetCode](https://leetcode.com/u/zeeshanalico/)
-
-## 🛠 Technical Skills
-
-**Languages:**
-- JavaScript (ES6+)/TypeScript
-- Python
-- SQL
-
-**Frameworks & Technologies:**
-- React.js, Next.js, Redux toolkit, RTK Query
-- Node.js, Express.js, NestJS
-- Django, MVT
-- RESTful APIs, GraphQL
-- MVC, Modular & Layered architecture
-
-**Databases:**
-- MySQL
-- PostgreSQL
-- Prisma ORM
-
-**Tools:**
-- Docker
-- Postman
-- Jira
-- VSCode
-- Slack
-- Notion
-
-**Version Control:**
-- Git & GitHub
 
 ## 🎓 Education
 **GC University, Lahore**
@@ -90,6 +60,27 @@ Fresh Computer Science graduate with strong technical skills in Python, JavaScri
 - Teamwork
 - Analytical reasoning
 - Problem solving
+
+## 🛠 Technical Skills
+
+**Languages:**
+- JavaScript (ES6+)/TypeScript, Python, SQL
+
+**Frameworks & Technologies:**
+- React.js, Next.js, Redux toolkit, RTK Query
+- Node.js, Express.js, NestJS
+- Django, MVT
+- RESTful APIs, GraphQL
+- MVC, Modular & Layered architecture
+
+**Databases:**
+- MySQL, PostgreSQL, Prisma ORM
+
+**Tools:**
+- Docker, Postman, Jira, VSCode, Slack, Notion
+
+**Version Control:**
+- Git & GitHub
 
 ## 🏆 Hobbies
 I engage in physical activities like tennis, table tennis, and badminton to develop focus and strategic thinking. Additionally, I stay updated on software trends by reading industry blogs and listening to podcasts.
